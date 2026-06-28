@@ -1,0 +1,17 @@
+{
+  "name": "Ritual",
+  "short_name": "Ritual",
+  "description": "Rotina, autocuidado e consistência em um espaço acolhedor.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4E6CC",
+  "theme_color": "#292F17",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

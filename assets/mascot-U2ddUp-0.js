@@ -1,0 +1,1 @@
+function m(a){var n;return((n=a==null?void 0:a.mascot_name)==null?void 0:n.trim())||"Lola"}function e(a,t=new Date().getHours()){return a>=50?"happy":t>=22&&a<50?"sleepy":a===0&&t>=12?"sad":"calm"}export{e as a,m};
